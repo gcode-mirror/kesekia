@@ -1,0 +1,1 @@
+Code I share on reddit. I use pastebin, but sometimes, code is not enough. For these occasions where the wiki, git repository, issue tracking, etc etc, I'll use Google code.
